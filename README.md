@@ -154,9 +154,9 @@ ___
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/DevrajDC"><img alt="" src="https://avatars.githubusercontent.com/u/65373279" width="130px;"><br><sub><b> Devraj Chatribin </b></sub></a><br><a href="https://github.com/Design-and-Code/Projects-showcase" title="Code">💻 </a></td> </a></td>
-  <td align="center"><a href="https://github.com/Greeshma2903"><img alt="" src="https://avatars.githubusercontent.com/u/70336930?v=4" width="130px;"><br><sub><b> Medam Greeshma </b></sub></a><br><a href="https://github.com/Design-and-Code/Projects-showcase" title="Code">💻 </a></td> </a></td>
-    
+    <td align="center"><a href="https://github.com/DevrajDC"><img alt="" src="https://avatars.githubusercontent.com/u/65373279" width="130px;"><br><sub><b> Devraj Chatribin </b></sub></a><br><a href="https://github.com/DevrajDC" title="Code"> </a></td> </a></td>
+  <td align="center"><a href="https://github.com/Greeshma2903"><img alt="" src="https://avatars.githubusercontent.com/u/70336930?v=4" width="130px;"><br><sub><b> Medam Greeshma </b></sub></a><br><a href="https://github.com/Greeshma2903" title="Code"> </a></td> </a></td>
+  <td align="center"><a href="https://github.com/Nandani-Paliwal"><img alt="" src="https://avatars.githubusercontent.com/u/83964826?v=4" width="130px;"><br><sub><b> Nandani Paliwal </b></sub></a><br><a href="https://github.com/Nandani-Paliwal" title="Code"> </a></td> </a></td>
   </tr>
 </tbody></table>
 
