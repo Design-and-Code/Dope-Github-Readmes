@@ -4,13 +4,14 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/Design-and-Code/Dope-Github-Profiles/pulls)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Design-and-Code/Dope-Github-Profiles/issues)
+[![GitHub license](https://img.shields.io/github/license/Design-and-Code/Dope-Github-Profiles)](https://github.com/Design-and-Code/Dope-Github-Profiles/blob/main/LICENSE)
 
 <!-- COVER IMAGE -->
 
-## What is Dope Github Profiles? 🤔
+## What is Dope Github Profiles?
 
 <!-- TO CHANGE -->
-Dope Github Profiles is a collection of amazing Github README Profiles.
+This is collection of really dope Github README Profiles, that you can take inspiration from. Wanna add your your awesome readme to our list? Sure, follow along✨
 
 ## [Design-and-Code](https://discord.gg/druweDMn3s)
 
@@ -65,6 +66,7 @@ root
 </p>
 
 ---
+## Contribution Guidelines🏗
 
 Want to add your project to the repo? We invite you to contribute.
 To start contributing, follow the below guidelines: 
@@ -107,35 +109,46 @@ git pull upstream main
 git checkout -b <your_branch_name>
 ```
 
-**8.** Perfom your desired changes to the code base.
+**8.** Then navigate to the `profiles` directory.
+```
+cd profiles
+```
+**8.** Add your README and assests under a folder with your name (replace `your-name` with name).
+```
+mkdir your-name
+cd your-name
+```
 
-**9.** Track your changes ✔.
+**10.** Track your changes ✔.
 
 ```
 git add .
 ```
 
-**10.** Commit your changes .
+**11.** Commit your changes .
 
 ```
 git commit -m "Relevant message"
 ```
 
-**11.** Push the committed changes in your feature branch to your remote repo.
+**12.** Push the committed changes in your feature branch to your remote repo.
 
 ```
 git push -u origin <your_branch_name>
 ```
 
-**12.** To create a pull request, click on `compare and pull requests`.
+**13.** To create a pull request, click on `compare and pull requests`.
 
-**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
+**14.** Add appropriate title and description to your pull request explaining your changes and efforts done.
 
-**14.** Click on `Create Pull Request`.
+**15.** Click on `Create Pull Request`.
 
-**15** Voila! You have made a PR to the Projects-showcase 💥 . Wait for your submission to be accepted and your PR to be merged.
+**16** Voila! You have made a PR to the Projects-showcase 💥 . Wait for your submission to be accepted and your PR to be merged.
 
-<!-- MENTION CONDITIONS, EXPLAIN ASSESTS -->
+Note:
+
+> Under the `assests` folder, you can add the resources used to build your readme, so others can reference it 
+___
 
 ## Project Maintainers 🛠
 
