@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Avni
+- 👀 I’m interested in Design
+- 🌱 I’m currently learning Figma
+- 💞️ I’m looking to collaborate on Designs
