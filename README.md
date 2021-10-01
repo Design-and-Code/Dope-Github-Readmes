@@ -1,4 +1,4 @@
-# Dope-Github-Profiles
+# Dope-Github-Readmes
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Design-and-Code/Dope-Github-Profiles/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/Design-and-Code/Dope-Github-Profiles/pulls)
@@ -8,7 +8,7 @@
 
 <!-- COVER IMAGE -->
 
-## What is Dope Github Profiles?
+## What is Dope Github Readmes?
 
 <!-- TO CHANGE -->
 This is collection of really dope Github README Profiles, that you can take inspiration from. Wanna add your your awesome readme to our list? Sure, follow along✨
@@ -42,7 +42,7 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 
 ```
 root
-├── profiles
+├── readmes
 │   ├── Your Name (folder)
 │   │    ├── README.MD
 │   │    └── Assets (folder)
@@ -71,24 +71,24 @@ root
 Want to add your project to the repo? We invite you to contribute.
 To start contributing, follow the below guidelines: 
 
-**1.** Fork [this](https://github.com/Design-and-Code/Dope-Github-Profiles) repository.
+**1.** Fork [this](https://github.com/Design-and-Code/Dope-Github-Readmes) repository.
 
 **2.** Clone your forked copy of the project.
 
 ```
-git clone https://github.com/<your_user_name>/Dope-Github-Profiles.git
+git clone https://github.com/<your_user_name>/Dope-Github-Readmes.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Dope-Github-Profiles
+cd Dope-Github-Readmes
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/Design-and-Code/Dope-Github-Profiles.git
+git remote add upstream https://github.com/Design-and-Code/Dope-Github-Readmes.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -109,9 +109,9 @@ git pull upstream main
 git checkout -b <your_branch_name>
 ```
 
-**8.** Then navigate to the `profiles` directory.
+**8.** Then navigate to the `readmes` directory.
 ```
-cd profiles
+cd readmes
 ```
 **8.** Add your README and assests under a folder with your name (replace `your-name` with name).
 ```
@@ -162,6 +162,6 @@ ___
 
 ## Our valuable Contributors👩‍💻👨‍💻 :
 
-<a href="https://github.com/Design-and-Code/Dope-Github-Profiles/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Design-and-Code/Dope-Github-Profiles" />
+<a href="https://github.com/Design-and-Code/Dope-Github-Readmes/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Design-and-Code/Dope-Github-Readmes" />
 </a>
