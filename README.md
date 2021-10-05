@@ -111,7 +111,7 @@ git checkout -b <your_branch_name>
 
 **8.** Then navigate to the `readmes` directory.
 ```
-cd readmes
+cd profiles
 ```
 **8.** Add your README and assests under a folder with your name (replace `your-name` with name).
 ```
