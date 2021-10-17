@@ -3,6 +3,10 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=VivekPattanayak&count_private=true&show_icons=true&&theme=github_dark&include_all_commits=true" height="180px"></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekPattanayak&layout=compact&hide=TSQL&theme=github_dark" height="160px"></p> 
 
+**No of Profile Visits:**
+
+![Visitor Count](https://profile-counter.glitch.me/{VivekPattanayak}/count.svg)
+
 <h2> Languages and Tools 🔨</h2>
 
 ![C](https://img.shields.io/badge/-C-0d1117?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
