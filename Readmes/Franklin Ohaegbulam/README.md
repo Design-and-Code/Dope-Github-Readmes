@@ -1,7 +1,6 @@
 <h1 align="center">Salut 👋, I'm Franklin</h1>
 <h3 align="center">A Multidisciplinary Designer and Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frankiefab100&label=Profile%20views&color=0e75b6&style=flat" alt="frankiefab100" /> </p>
 
 - 📒 I’m currently learning **ReactJS, NodeJS and Solidity** and working on side projects.
 
