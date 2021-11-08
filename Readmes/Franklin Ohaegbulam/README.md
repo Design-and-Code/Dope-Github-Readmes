@@ -8,7 +8,7 @@
 
 - 🌎 I'm available for any Design or UI Engineer roles.
 
-- 💬 Feel free to reach out: DM [@frankiefab100](https://twitter.com/frankiefab100)
+- 💬 Feel free to reach me out at my Twitter: [@frankiefab100](https://twitter.com/frankiefab100)
 
 - 💯 Interests: **Open Source, Inclusive Design, Accessibility, User Experience, Design Systems, Human Computer Interaction, Web Animation and Blockchain technology**.
 
