@@ -1,4 +1,5 @@
-# Sudip Mondal                                                                       
+# Sudip Mondal
+
 2nd year, B.Tech Civil Engineering                                                    
 Indian Institute of Technology, Madras, India                                       
 [E-mail](mailto:sudipmondal.2002@rediffmail.com) | [LinkedIn](https://www.linkedin.com/in/sudip-mondal-374a12201/) | [Facebook](https://www.facebook.com/sudip16022002/) | [Instagram](https://www.instagram.com/sudip._.mondal/) | [Twitter](https://twitter.com/SUDIPMO19931261) | [YouTube](https://www.youtube.com/channel/UCvfY9VkXaFNxQJO7lfDV6Vw) | [GitHub](https://github.com/sudip-mondal-2002) | [Website](https://sudipmondal.tk) | [NPM](https://www.npmjs.com/~sudipmondal) | [PyPI](https://pypi.org/user/sudip-mondal-2002/)
