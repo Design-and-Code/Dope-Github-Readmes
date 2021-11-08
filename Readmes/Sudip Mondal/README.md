@@ -151,6 +151,7 @@ Indian Institute of Technology, Madras, India
    * Learnt about react-native and google maps API.
    * This was a submission for the space-apps challenge hosted by NASA.
 ### Project under Professors
+
 * Logistic & Innovation Lab, IIT Madras (prof. N.S Narayanaswamy)
    * Logistic Innovation Lab ideates and implements efficient route algorithms for transportation.
    * Worked in the frontend team of the project. Used React.js as the base framework.
