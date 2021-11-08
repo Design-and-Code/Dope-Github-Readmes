@@ -160,6 +160,7 @@ Indian Institute of Technology, Madras, India
      </tr>  
          </table>  
 ## Professional Experiences
+
 * Crammn (Sep’21 - Present)
    * Crammn is an ed-tech startup, helping students over many educational institutes.
    * Worked as a subject mentor and full stack developer.
@@ -173,16 +174,19 @@ Indian Institute of Technology, Madras, India
    * Intellify is a non-government organization in the field of ed-tech.
    * Worked as Subject Matter Expert for mathematics.
 ## Position of Responsibilities
+
 * Core Member, WebOps Team, Sports Organizing Committee, IIT Madras (May’21 - present)
    * Recruited and managed coordinators and maintained a steep curve for their training.
    * Used MERN stack for building the website for Agrata, sports fest of IIT Madras.
 
 ## Co-curricular Activities
+
 * Host a workshop for programming in Shastra Juniors. Taught school students a brief introduction to programming and the computing world.
 * Contributed to open-source projects.
 * Participated in National Cadet Corps while in school.
 
 ## Scholastic Achievements
+
 * 5 stars in CodeChef.
 * Selected in top 5 finalists in Pravega Hackathon by IISc, Bangalore.
 * 7th Position in Enigma hackathon by IIT, Mandi.
