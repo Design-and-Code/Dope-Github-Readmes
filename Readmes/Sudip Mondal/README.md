@@ -139,6 +139,7 @@ Indian Institute of Technology, Madras, India
     <td> 
         
 ### Group projects
+
 * Emotion detector for android
    * This is a categorical classifier model used to detect facial expressions.
    * Learnt about integrating ML model in native android using .tflite files.
