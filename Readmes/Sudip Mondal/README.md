@@ -115,7 +115,8 @@ Indian Institute of Technology, Madras, India
  <tr>
      <td>
          
-### Personal Projects      
+### Personal Projects
+
 * Codebee: Programming languages for beginners
    * This is a programming language written in python.
    * Learnt about tokenization, Lexers, and Interpreters during this project.
