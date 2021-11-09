@@ -174,6 +174,7 @@ Indian Institute of Technology, Madras, India
 * Intellify (Jan’21 – Mar’21)
    * Intellify is a non-government organization in the field of ed-tech.
    * Worked as Subject Matter Expert for mathematics.
+
 ## Position of Responsibilities
 
 * Core Member, WebOps Team, Sports Organizing Committee, IIT Madras (May’21 - present)
