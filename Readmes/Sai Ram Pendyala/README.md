@@ -18,6 +18,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300">
 </div>
+
+- 🔭 I’m a **Computer Science under graduate at SRMIST** 
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 👯 I’m looking to collaborate on **open source projects**
+- 📫 How to reach me: **sairampendyala99@gmial.com**
+- 😄 Pronouns: **He/His/Him**
+
 <hr/>
 
 <table align="center">
