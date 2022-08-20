@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JavaScript.🤩**
 
-- 📫 How to reach me **mahendrabishnoi4488@gmail.com**
+- 📫 How to reach me: **mahendrabishnoi4488@gmail.com**
 
 ## 🌐Socials & Blog
 
