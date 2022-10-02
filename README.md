@@ -1,5 +1,10 @@
 # Dope-Github-Readmes
 
+> **Note**
+> 
+> This repository is not included in the Hacktoberfest event.\
+> It is used to practice when making your first steps into open-source.
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Design-and-Code/Dope-Github-Profiles/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/Design-and-Code/Dope-Github-Profiles/pulls)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
