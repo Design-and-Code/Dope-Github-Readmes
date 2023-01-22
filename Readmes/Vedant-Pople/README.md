@@ -112,4 +112,3 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/vedantp
 4. 💪 Opened PR [#8](https://github.com/Anzo52/concalcjava/pull/8) in [Anzo52/concalcjava](https://github.com/Anzo52/concalcjava)
 5. 🗣 Commented on [#1](https://github.com/meftunca/TensorFlow-Course/issues/1) in [meftunca/TensorFlow-Course](https://github.com/meftunca/TensorFlow-Course)
 <!--END_SECTION:activity-->
-
