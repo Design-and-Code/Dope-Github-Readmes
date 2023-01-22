@@ -99,6 +99,7 @@ Connect with me and ask anything on <a href="https://www.linkedin.com/in/vedantp
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/vedantpople4/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=vedantpople4">
 </a>
