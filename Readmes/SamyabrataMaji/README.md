@@ -20,7 +20,8 @@ Hi, I am Samyabrata Maji.
 
 Here's a list of all the technologies I have used. The ones I use the most are listed first.
 
-### **1. Languages:**
+### **1. Languages**
+
 <p>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />&ensp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />&ensp;
