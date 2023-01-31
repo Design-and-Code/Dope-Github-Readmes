@@ -12,7 +12,7 @@ Hi, I am Samyabrata Maji.
 
 - ❓Ask me anything about **_Open Source_** and **_Web Development_**.
 
-- 📨 How to **_reach_** me 👉 [**click here**](#contact-me)
+- 📨 How to **_reach_** me 👉 [**_click here_**](#contact-me)
 
 <p>&nbsp;</p>
 
