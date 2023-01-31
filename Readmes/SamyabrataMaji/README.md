@@ -73,7 +73,8 @@ Here's a list of all the technologies I have used. The ones I use the most are l
 
 ###### &nbsp;
 
-### **4. Others:**
+### **4. Others**
+
 <p>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&ensp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />&ensp;
