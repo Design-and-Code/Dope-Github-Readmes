@@ -102,7 +102,8 @@ If you want help reguarding something, feel free to reach out to me.
 
 <p>&nbsp;</p>
 
-## **Github Stats**
+## **GitHub Stats**
+
 <p><img src="https://img.shields.io/github/stars/samyabrata-maji?style=social"/>&emsp;<img src="https://img.shields.io/github/followers/samyabrata-maji?style=social"/></p>
 <p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyabrata-maji&langs_count=10&layout=compact&theme=dark" alt="samyabrata-maji" /></p>
