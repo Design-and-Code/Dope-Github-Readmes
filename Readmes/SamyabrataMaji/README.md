@@ -54,7 +54,7 @@ Here's a list of all the technologies I have used. The ones I use the most are l
 
 ###### &nbsp;
 
-### **3. Softwares:**
+### **3. Softwares**
 
 <p>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>&ensp;
