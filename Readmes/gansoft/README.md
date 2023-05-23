@@ -15,6 +15,7 @@
 
 
 ### ☁ Cloud Technologies 
+
 - AWS, Azure, Google Cloud (GCP)
 <br /> <br />
 
@@ -54,6 +55,7 @@ Slack, Jira, Azure Boards, Kanban Boards, Zapier, Microsft Teams
 I have 6.7 Years of experience as a Technical Lead and have worked on several projects involving **AWS, Azure and GCP, DevOps, DevSecOps, Development, AI, and ML Ops**. I'm passionate about Cloud and AI. As a technical lead, I have led teams of  25+ developers and provided technical direction to ensure project success.
 
 
+
 # ⚡️ My Github Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gansoft&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
@@ -69,7 +71,9 @@ Here are some of the projects I have completed:
 
 
 
+
 # 👨‍💼 Work Samples / Repository
+
 You can find some of my work samples on my portfolio website.
 
 
